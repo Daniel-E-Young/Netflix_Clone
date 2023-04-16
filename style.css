@@ -40,3 +40,5 @@ h2 {
     font-weight: 400;
     margin-bottom: 20px;
 }
+
+@media screen and (max-width)
