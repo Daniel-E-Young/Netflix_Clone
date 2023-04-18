@@ -99,5 +99,6 @@ h2 {
 .select {
     display: inline-block;
     cursor: pointer;
-    font-size: ;
+    font-size: 14px;
+    color: ;
 }
