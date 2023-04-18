@@ -78,3 +78,7 @@ h2 {
     fill: #e50914;
     height: 40px;
 }
+
+@media screen and (max-width: 600px) {
+    
+}
