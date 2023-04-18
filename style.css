@@ -98,5 +98,5 @@ h2 {
 
 .select {
     display: inline-block;
-    
+    cursor: pointer;
 }
