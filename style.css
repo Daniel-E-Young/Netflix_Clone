@@ -92,4 +92,6 @@ h2 {
 .select-box svg {
     height: 20px;
     position: absolute;
+    top: 5px;
+    
 }
