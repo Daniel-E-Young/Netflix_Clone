@@ -86,7 +86,7 @@ h2 {
 }
 
 .select-box{
-    
+    position: relative;
 }
 
 .select-box svg {
