@@ -132,4 +132,6 @@ select option {
 .header-content {
     height: 64vh;
     display: grid;
+    place-content: center;
+    
 }
