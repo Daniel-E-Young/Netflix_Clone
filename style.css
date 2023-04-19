@@ -129,6 +129,6 @@ select option {
     transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
 }
 
-header-content {
+.header-content {
     
 }
