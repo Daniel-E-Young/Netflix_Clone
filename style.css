@@ -120,5 +120,6 @@ select option {
     color: #fff;
     text-decoration: none;
     padding: 8px 16px;
+    border-radius: 3px;
     
 }
