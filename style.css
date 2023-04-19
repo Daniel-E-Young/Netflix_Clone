@@ -118,5 +118,6 @@ select option {
     text-transform: capitalize;
     background-color: #e50914;
     color: #fff;
+    text-decoration: none;
     
 }
