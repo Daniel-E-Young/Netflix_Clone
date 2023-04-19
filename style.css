@@ -140,6 +140,6 @@ select option {
     text-align: center;
 }
 
-@media screen {
+@media screen and (max-width:{
     
 }
