@@ -114,5 +114,6 @@ select option {
 .signin-btn {
     display: inline-block;
     font-size: 14px;
+    font-weight: 700;
     
 }
