@@ -126,5 +126,5 @@ select option {
 
 .signin-btn:hover {
     background-color: #b80f17;
-    transform-timing-function: 
+    transition-timing-function: cubic-bezier(1, 0, 0, 1)
 }
