@@ -133,5 +133,5 @@ select option {
     height: 64vh;
     display: grid;
     place-content: center;
-    
+    text-align: center;
 }
