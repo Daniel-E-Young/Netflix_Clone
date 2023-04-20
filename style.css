@@ -178,7 +178,8 @@ select option {
     color: #222;
     background-color: #fff;
     border: 0;
-    
+    border-radius: 5px;
+    padding: ;
 }
 
 
