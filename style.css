@@ -172,5 +172,6 @@ select option {
 }
 
 .form-label {
+    position: absolute;
     
 }
