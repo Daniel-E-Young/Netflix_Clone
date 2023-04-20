@@ -167,7 +167,10 @@ select option {
 
 @media screen and (max-width: 600px) {
     .form-group {
-        width: 100%;
-        
+        width: 100%;  
     }    
+}
+
+.form-label {
+    
 }
