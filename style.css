@@ -162,5 +162,5 @@ select option {
 .form-group {
     width: 55%;
     height: 60px;
-    
+    position: relative;
 }
