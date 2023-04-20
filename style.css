@@ -153,6 +153,6 @@ select option {
     gap: 10px;
 }
 
-@media screen {
+@media screen  and (){
     
 }
