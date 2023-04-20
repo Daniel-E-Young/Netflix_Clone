@@ -148,5 +148,6 @@ select option {
 
 .form {
     width: 100%;
-    display: ;
+    display: flex;
+    
 }
