@@ -165,6 +165,7 @@ select option {
     position: relative;
 }
 
-@media screen {
+@media screen and (max-width: 600px) {
+    
     
 }
