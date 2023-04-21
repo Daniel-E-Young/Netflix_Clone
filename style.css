@@ -184,7 +184,7 @@ select option {
 
 .form-label {
     position: absolute;
-    top: 1;
+    top: 0;
     left: 0;
     font-size: 15px;
     padding: 20px 15px;
