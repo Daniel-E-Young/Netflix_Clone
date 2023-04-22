@@ -202,4 +202,4 @@ select option {
 
 }
 
-.form-input:not()
+.form-input:not(:placeholder-shown)
