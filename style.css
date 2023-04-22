@@ -224,6 +224,6 @@ select option {
     .get-btn {
         align-self: center;
         font-size: 16px;
-        padding: ;
+        padding: 10px 15px;
     }
 }
