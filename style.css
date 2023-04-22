@@ -209,5 +209,6 @@ select option {
     z-index: 10;
 }
 .get-btn {
+    display: flex;
     
 }
