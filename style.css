@@ -193,6 +193,6 @@ select option {
     transition: all 0.2s ease-in-out;
 }
 
-.form-input:focus+ .form-label {
-    
+.form-input:focus + .form-label {
+
 }
