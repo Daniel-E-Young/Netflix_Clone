@@ -220,6 +220,6 @@ select option {
     border: 0;
 }
 
-@media screen {
+@media screen and (max-width: 600px) {
     
 }
