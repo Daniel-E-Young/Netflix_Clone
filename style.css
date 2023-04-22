@@ -211,4 +211,8 @@ select option {
 .get-btn {
     display: flex;
     align-items: center;
+    font-size: 25px;
+    
+
+
 }
