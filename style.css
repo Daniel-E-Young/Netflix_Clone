@@ -223,6 +223,7 @@ select option {
 @media screen and (max-width: 600px) {
     .get-btn {
         align-self: center;
-        font-size: ;
+        font-size: 16px;
+        padding: ;
     }
 }
