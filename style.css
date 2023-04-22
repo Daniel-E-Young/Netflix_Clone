@@ -194,5 +194,5 @@ select option {
 }
 
 .form-input:focus + .form-label {
-
+    top: -12px;
 }
