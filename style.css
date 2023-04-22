@@ -210,5 +210,5 @@ select option {
 }
 .get-btn {
     display: flex;
-    
+    align-items: center;
 }
