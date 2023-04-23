@@ -260,3 +260,7 @@ select option {
 .section-content p {
     font-size: 24px;
 }
+
+@media screen {
+    
+}
