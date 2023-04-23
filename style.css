@@ -255,5 +255,8 @@ select option {
 }
 
 .section-content {
-    flex-basis: ;
+    flex-basis: 50%;
+}
+.section-content p {
+    
 }
