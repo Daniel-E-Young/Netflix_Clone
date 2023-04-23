@@ -233,5 +233,6 @@ select option {
 }
 
 .section {
-    padding: 80px;
+    padding: 80px 0px;
+    border-top: ; 
 }
