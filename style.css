@@ -240,3 +240,7 @@ select option {
 .section:nth-child(5) {
     border-bottom: 8px solid #222;
 }
+
+.section-wrap {
+    
+}
