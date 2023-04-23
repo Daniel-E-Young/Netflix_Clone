@@ -229,5 +229,5 @@ select option {
 }
 .get-btn:hover {
     background-color: #b80f17;
-    transition-timing-function: cubic-bezier();
+    transition-timing-function: cubic-bezier(0.4, 0, 0.1, 1);
 }
