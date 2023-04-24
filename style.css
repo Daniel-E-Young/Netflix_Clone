@@ -293,7 +293,8 @@ select option {
 }
 
 .reverse {
-    flex-direction: ;
+    flex-direction: row-reverse;
+    
 }
 
 
