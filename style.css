@@ -268,7 +268,8 @@ select option {
 }
 
 .section-media {
-    flex-basis: ;
+    flex-basis: 50%;
+    
 }
 
 
