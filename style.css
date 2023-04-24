@@ -296,7 +296,9 @@ select option {
     flex-direction: row-reverse;
 }
 
-
+@media screen and (max-width: 960px) {
+    
+}
 
 
 
