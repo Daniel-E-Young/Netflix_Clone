@@ -312,4 +312,6 @@ select option {
 
 .overlay-box {
     position: absolute;
+    left: 50%;
+    
 }
