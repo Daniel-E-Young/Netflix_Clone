@@ -317,5 +317,7 @@ select option {
     transform: translateX(-50%);
 
     width: 55%;
-    min-width: ;
+    min-width: 240px;
+    margin: 0 auto;
+    
 }
