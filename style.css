@@ -314,5 +314,5 @@ select option {
     position: absolute;
     left: 50%;
     bottom: 8%;
-    transform: translateX();
+    transform: translateX(-50%);
 }
