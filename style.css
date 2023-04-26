@@ -328,5 +328,5 @@ select option {
     box-shadow: 0 0 32px 0 rgb(0, 0, 0);
     border-radius: 12px;
     overflow: hidden;
-
+    z-index: 1;
 }
