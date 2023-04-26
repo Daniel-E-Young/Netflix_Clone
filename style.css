@@ -324,6 +324,6 @@ select option {
 
     display: flex;
     align-items: center;
-    border: 2px solid rgba(225, green, blue, alpha);
+    border: 2px solid rgba(225, 225, 225, 0.2);
 
 }
