@@ -333,4 +333,7 @@ select option {
 
 .overlay-box img {
     margin: 0 16px 0 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    
 }
