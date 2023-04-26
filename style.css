@@ -330,3 +330,7 @@ select option {
     overflow: hidden;
     z-index: 1;
 }
+
+.overlay-box img {
+    
+}
