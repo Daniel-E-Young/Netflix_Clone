@@ -361,5 +361,5 @@ select option {
     text-align: left;
     flex-grow: 1;
     flex-shrink: 1;
-    
+    margin: 5px 0;
 }
