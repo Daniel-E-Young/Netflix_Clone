@@ -337,5 +337,6 @@ select option {
     flex-shrink: 0;
 }
 .overlay-box-img img {
+    height: 80px;
     
 }
