@@ -351,5 +351,8 @@ select option {
     outline-offset: -2px;
     display: block;
     content: "";
-    background-size: ;
+
+    background-size: 100%;
+    
+
 }
