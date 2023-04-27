@@ -354,6 +354,7 @@ select option {
 
     background-size: 100%;
     flex-grow: 0;
+    flex-shrink: 0;
     
 
 }
