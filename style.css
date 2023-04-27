@@ -349,5 +349,5 @@ select option {
     height: 48px;
     outline: 2px solid #000;
     outline-offset: -2px;
-    
+    display: block;
 }
