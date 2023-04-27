@@ -353,6 +353,7 @@ select option {
     content: "";
 
     background-size: 100%;
+    flex-grow: 0;
     
 
 }
