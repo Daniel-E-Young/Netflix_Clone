@@ -359,5 +359,6 @@ select option {
 
 .overlay-box-text {
     text-align: left;
-    
+    flex-grow: 1;
+    flexs
 }
