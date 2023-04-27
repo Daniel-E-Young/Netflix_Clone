@@ -373,4 +373,5 @@ select option {
     width: 100%;
     font-size: 25px;
     margin: 40px 0;
+    text-align: left;
 }
