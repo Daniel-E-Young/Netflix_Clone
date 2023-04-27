@@ -336,4 +336,6 @@ select option {
     flex-grow: 0;
     flex-shrink: 0;
 }
-.overlay-box
+.overlay-box-img img {
+    
+}
