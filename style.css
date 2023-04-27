@@ -370,5 +370,7 @@ select option {
 }
 
 .accordion {
+    width: 100%;
+    font-size: 25px;
     
 }
