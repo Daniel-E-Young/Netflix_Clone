@@ -338,5 +338,8 @@ select option {
 }
 .overlay-box-img img {
     height: 80px;
+}
+
+.overlay-box-text p{
     
 }
