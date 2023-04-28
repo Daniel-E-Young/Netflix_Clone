@@ -394,5 +394,6 @@ select option {
     right: 30px;
     top: 20px;
 
-    transform:rotate() ;
+    transform:rotate(45deg);
+    transition: 
 }
