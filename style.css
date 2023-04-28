@@ -413,3 +413,7 @@ select option {
     border-bottom: 1px solid #000;
     cursor: pointer;
 }
+
+.question .answer {
+    padding: 0px 30px;
+}
