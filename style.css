@@ -383,5 +383,6 @@ select option {
 }
 
 .question {
-    position: ;
+    position: relative;
+    
 }
