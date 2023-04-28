@@ -391,4 +391,6 @@ select option {
     width: 30px;
     height: 30px;
     position: relative;
+    right: 30px;
+    
 }
