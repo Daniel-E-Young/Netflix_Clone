@@ -398,4 +398,6 @@ select option {
     transition: all 0.2s ease;
 }
 
-@media screen and ()
+@media screen and (max-width) {
+    
+}
