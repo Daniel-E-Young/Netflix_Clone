@@ -400,6 +400,7 @@ select option {
 
 @media screen and (max-width) {
     .question svg {
+        width: 20px;
         
     }
 }
