@@ -402,6 +402,7 @@ select option {
     .question svg {
         width: 20px;
         height: 20px;
+        right: 20px;
         
     }
 }
