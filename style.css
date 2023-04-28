@@ -395,5 +395,5 @@ select option {
     top: 20px;
 
     transform:rotate(45deg);
-    transition: 
+    transition: all 0.2s ease;
 }
