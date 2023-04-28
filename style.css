@@ -393,4 +393,6 @@ select option {
     position: relative;
     right: 30px;
     top: 20px;
+
+    transform: ;
 }
