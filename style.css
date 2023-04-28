@@ -408,5 +408,6 @@ select option {
 }
 
 .question title {
+    display: block;
     
 }
