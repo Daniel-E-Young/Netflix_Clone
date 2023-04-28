@@ -375,3 +375,7 @@ select option {
     margin: 40px 0;
     text-align: left;
 }
+
+@media screen and (max-width: 600px) {
+    .accor
+}
