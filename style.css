@@ -410,5 +410,6 @@ select option {
 .question title {
     display: block;
     padding: 24px 30px;
-    border-bottom: 1px ;
+    border-bottom: 1px solid #000;
+    cursor: pointer;
 }
