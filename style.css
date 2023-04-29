@@ -417,5 +417,6 @@ select option {
 .question .answer {
     padding: 0px 30px;
 
+    max-height: 0;
     
 }
