@@ -433,4 +433,6 @@ select option {
     
 }
 
-.question input[type="checkbox"]:checked~ .answer
+.question input[type="checkbox"]:checked~ .answer {
+    max-height: ;
+}
