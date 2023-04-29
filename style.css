@@ -429,5 +429,6 @@ select option {
 }
 
 .question input[type="checkbox"] {
-    displa
+    display: none;
+    
 }
