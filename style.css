@@ -418,5 +418,5 @@ select option {
     padding: 0px 30px;
 
     max-height: 0;
-    
+    overflow: hidden;
 }
