@@ -425,5 +425,6 @@ select option {
 }
 
 .question .answer p{
+    margin-bottom: 20px;
     
 }
