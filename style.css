@@ -441,3 +441,7 @@ select option {
 .question input[type=""checkbox]:checked~ .title svg {
     transform: rotate(180deg);
 }
+
+.footer {
+    
+}
