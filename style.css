@@ -464,5 +464,6 @@ select option {
 }
 
 .footer .grid-container li a  {
-    display: ;
+    display: block;
+    
 }
