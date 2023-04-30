@@ -453,4 +453,5 @@ select option {
 
 .footer .grid-container {
     display: grid;
+    grid-template-columns: ;
 }
